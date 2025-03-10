@@ -1,0 +1,22 @@
+.sidetab {
+    width: 250px;
+    height: 100vh;
+    background: #333;
+    color: white;
+    padding: 20px;
+  }
+  
+  .sidetab ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidetab li {
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .sidetab li:hover {
+    background: #555;
+  }
+  
