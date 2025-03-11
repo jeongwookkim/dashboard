@@ -1,5 +1,5 @@
 import React from 'react';
-import '../css/Content.css';
+import '../css/content.css';
 import Home from './Home';
 import Reservation from './Reservation';
 import PopularEvent from './PopularEvent';

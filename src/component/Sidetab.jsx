@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import '../css/Sidetab.css';
+import '../css/sidetab.css';
 
 const Sidetab = ({ setSelectedMenu, setSelectedEventData }) => {
   
